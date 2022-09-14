@@ -1,0 +1,111 @@
+.container {
+    background: rgb(50, 50, 50);
+    margin-left: 15%;
+    margin-right: 15%;
+  }
+.container-History {
+    background: rgb(75, 50, 50);
+    margin-left: 15%;
+    margin-right: 15%;
+  }
+.container-Food {
+    background: rgb(100, 50, 50);
+    margin-left: 15%;
+    margin-right: 15%;
+  }
+  .container-Photos {
+    background: rgb(135, 50, 50);
+    margin-left: 15%;
+    margin-right: 15%;
+    justify-content: center;
+  }
+  .container-Interest {
+    background: rgb(165, 50, 50);
+    margin-left: 15%;
+    margin-right: 15%;
+  }
+body {
+    background: rgb(45, 45, 45);
+  }
+ 
+img {
+    width: 80%;
+    max-width: 300px;
+  }
+
+p{
+    color: cornsilk;
+    margin-right: 5%;
+    margin-left: 5%;
+}
+dt, h2{
+    color: rgb(125, 226, 43);
+}
+
+.font {
+    font-size: 20px;
+    text-align: right;
+}
+
+.link {
+    font-size: 18px;
+    color: rgb(125, 226, 43);
+}
+
+.main-image {
+    display: block;
+    margin: auto;
+    max-width: 600px;
+}
+.main-image-photos {
+    display: block;
+    margin: auto;
+    max-width: 1000px;
+}
+.center-title{
+    color: rgb(125, 226, 43);
+    text-align: center;
+}
+.text-center {
+    color: cornsilk;
+    text-align: center;
+}
+
+ol{
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: center;
+    align-content: center;
+}
+li{
+    color: cornsilk;
+}
+h2 {
+    text-align: center;
+  }
+div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+div.gallery:hover {
+    border: 1px solid #777;
+  }
+  
+div.gallery img {
+    width: 100%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+ div.desc {
+    padding: 15px;
+    text-align: center;
+    color: cornsilk;
+  }
